@@ -12,3 +12,9 @@
 [Shoufa Chen](https://www.shoufachen.com/), [Peize Sun](https://peizesun.github.io/), [Enze Xie](https://xieenze.github.io/), [Chongjian Ge](https://scholar.google.com/citations?user=R8mtv14AAAAJ&hl=zh-CN), [Jiannan Wu](https://scholar.google.com/citations?user=1euA66EAAAAJ&hl=en), [Lan Ma](), [Jiajun Shen](), and [Ping Luo](http://luoping.me/)
 ## Updates
 - (10/2021) Releasing code.
+
+
+### Install
+
+Please find installation instructions in [INSTALL.md](docs/INSTALL.md).
+
